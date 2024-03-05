@@ -1,4 +1,4 @@
-# 🎓 Curso de Engenharia de Software - UFLA
+# 💻 Curso de Engenharia de Software - UFLA
 
 E aí, galera? 🚀 Bem-vindos ao point central do curso de Engenharia de Software da UFLA (Universidade Federal de Lavras). Criamos este espaço pra juntar, organizar e compartilhar tudo que é material didático, exercícios, projetos e aquele plus de recursos relacionados às disciplinas do nosso curso.
 
