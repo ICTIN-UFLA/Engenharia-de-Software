@@ -28,3 +28,6 @@ Esse repo é um trabalho de equipe, e a sua ajuda é super bem-vinda! Se tá afi
 Quer saber mais sobre o curso ou discutir sobre contribuições específicas para este repo? Fica à vontade pra entrar em contato.
 
 Juntos, a gente tem o poder de criar uma base de conhecimento incrível que não só ajuda os estudantes de agora e do futuro, mas também toda a comunidade de Engenharia de Software. Valeu por dar uma conferida e ajudar a crescer o nosso repositório!
+
+
+*Versão criada pelo prof Johnatan Oliveira* 
